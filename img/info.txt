@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Resagokr
+font link: http://www.glukfonts.pl/font.php?font=Resagokr
+font author: GLUK fonts
+font author site: http://www.glukfonts.pl/
+
+
+icon designer: José Manuel de Laá
+icon designer link: /josemdelaa
+        
+{"bg":"#DF8E40","icon":"#2A1A0A","font":"#2A1A0A","slogan":"#3e2e1e"}
+      

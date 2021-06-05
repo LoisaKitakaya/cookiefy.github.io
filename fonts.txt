@@ -1,0 +1,9 @@
+    font-family: 'Mate SC', serif;
+
+    font-family: 'Odibee Sans', cursive;
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Sigmar One', cursive;
+
+    font-family: 'Titillium Web', sans-serif;
